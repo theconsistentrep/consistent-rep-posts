@@ -5,4 +5,4 @@ One line per post, newest last. Status: draft / approved / published.
 | Date | Format | Topic | Folder | Status |
 |---|---|---|---|---|
 | 2026-11-20 | Carousel (7) | 5 habits that beat motivation | posts/2026-11-20-5-habits | published (posted by Samita from phone) |
-| 2026-11-21 | Reel (10s text) | Missed a workout? What I do next | posts/2026-11-21-missed-workout | draft |
+| 2026-11-21 | Reel (10s text) | Missed a workout? What I do next | posts/2026-11-21-missed-workout | approved (publish 19:00) |
