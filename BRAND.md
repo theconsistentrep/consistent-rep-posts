@@ -13,7 +13,7 @@ Public image base: https://raw.githubusercontent.com/theconsistentrep/consistent
 - Background #16161A (charcoal), text #F4EFE8 (cream), accent #FF6B3D (orange), muted #A7A29A.
 - Fonts: Poppins ExtraBold for headlines, Inter for body and labels.
 - Soft orange radial glow, outlined orange numbers for list items, short orange bar under text.
-- Carousel 1080x1350 JPEG (templates/carousel.py). Reel 1080x1920 MP4, ~10s, still scenes with 0.25s fades, silent AAC track (templates/reel.py).
+- Carousel 1080x1350 JPEG (templates/carousel.py). Reel 1080x1920 MP4, 30–40s (default 35s: ~7 scenes, 4s hook, 5s per scene, 6s end card), still scenes with slow 4% push-in and 0.3s fades, silent AAC track (templates/reel.py + templates/encode_reel.py).
 - Keep text away from the bottom ~500px and right edge on Reels (Instagram UI).
 
 ## Content pillars (rotate)

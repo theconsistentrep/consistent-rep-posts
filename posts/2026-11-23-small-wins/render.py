@@ -3,9 +3,11 @@ from playwright.async_api import async_playwright
 BG="#16161A"; CREAM="#F4EFE8"; ACCENT="#FF6B3D"; MUTED="#A7A29A"
 scenes=[
  ("hook", "<div class='k'>THE CONSISTENT REP</div><h1>The wins<br>I count.</h1><p class='sub'>None of them show<br>on the scale <span class='a'>↓</span></p>"),
- ("s1", "<div class='n'>01</div><h2>Showed up<br>tired.</h2><p>And trained anyway.</p>"),
- ("s2", "<div class='n'>02</div><h2>Finished<br>the last set.</h2><p>The one I wanted to skip.</p>"),
- ("s3", "<div class='n'>03</div><h2>Came back<br>next week.</h2><p>Same plan. Same time.</p>"),
+ ("intro", "<h2>I used to<br>count only<br>the big ones.</h2><p>A heavier lift. A new number.<br>A good photo.</p>"),
+ ("s1", "<div class='n'>01</div><h2>Showed up<br>tired.</h2><p>Long day, low energy.<br>I trained anyway, even short.</p>"),
+ ("s2", "<div class='n'>02</div><h2>Finished<br>the last set.</h2><p>The one I really<br>wanted to skip.</p>"),
+ ("s3", "<div class='n'>03</div><h2>Came back<br>next week.</h2><p>Same plan. Same time.<br>No drama.</p>"),
+ ("turn", "<h2>On their own<br>they look<br><span class='a'>tiny.</span></h2><p>Stacked up, they're the reason<br>I'm still training.</p>"),
  ("end", "<h1 class='e'>Small wins<br>stack up.<br><span class='a'>Count yours.</span></h1><p class='sub'>Follow @theconsistentrep</p>"),
 ]
 CSS=f"""*{{margin:0;padding:0;box-sizing:border-box}}

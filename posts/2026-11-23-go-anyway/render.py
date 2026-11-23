@@ -3,9 +3,11 @@ from playwright.async_api import async_playwright
 BG="#16161A"; CREAM="#F4EFE8"; ACCENT="#FF6B3D"; MUTED="#A7A29A"
 scenes=[
  ("hook", "<div class='k'>THE CONSISTENT REP</div><h1>Some days<br>I don't<br>want to.</h1><p class='sub'>Here's what I do <span class='a'>↓</span></p>"),
+ ("intro", "<h2>It happens.<br><span class='a'>A lot.</span></h2><p>Tired, busy, not in the mood.<br>Some weeks it's most days.</p>"),
  ("s1", "<h2>I go<br><span class='a'>anyway.</span></h2><p>Not every session feels good.<br>I show up for the ones<br>that don't.</p>"),
  ("s2", "<h2>I lower<br>the bar.</h2><p>Lighter weights. Fewer sets.<br>Still a session.</p>"),
  ("s3", "<h2>I keep the<br>promise.</h2><p>The one I made to myself,<br>not to the mirror.</p>"),
+ ("turn", "<h2>And most<br>days?</h2><p>Ten minutes in,<br>I'm glad I came.</p>"),
  ("end", "<h1 class='e'>Motivation<br>comes and goes.<br><span class='a'>I keep<br>showing up.</span></h1><p class='sub'>Follow @theconsistentrep</p>"),
 ]
 CSS=f"""*{{margin:0;padding:0;box-sizing:border-box}}
