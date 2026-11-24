@@ -10,7 +10,7 @@ One line per post, newest last. Status: draft / approved / published.
 | 2026-11-23 | Reel (35s text) | Some days I don't want to (I go anyway) — 19:00 | posts/2026-11-23-go-anyway | published 2026-11-23 19:01 (media 18118385855037369) |
 | 2026-11-23 | Reel (35s text) | The small wins I count — 12:30 slot (late) | posts/2026-11-23-small-wins | published 2026-11-23 14:06 (media 18143924557527969) |
 | 2026-11-24 | Reel (35s text) | Tuesday leg day: the 3 lifts I never skip — 12:30 | posts/2026-11-24-leg-day | published 2026-11-24 12:31 (media 17886730653523060) |
-| 2026-11-24 | Carousel (7) | 5 lines I tell myself before I train — 19:00 | posts/2026-11-24-lines-i-tell-myself | approved |
+| 2026-11-24 | Carousel (7) | 5 lines I tell myself before I train — 19:00 | posts/2026-11-24-lines-i-tell-myself | published 2026-11-24 19:01 (media 18162983008519581) |
 | 2026-11-24 | Carousel (6) | What I thought I needed to start lifting — 15:00 (extra) | posts/2026-11-24-what-i-thought-i-needed | published 2026-11-24 15:01 (media 18360870565216540) |
 | 2026-11-24 | Reel (35s text) | I stopped waiting for Monday — 17:00 (extra) | posts/2026-11-24-not-waiting-for-monday | published 2026-11-24 15:56 (media 18123432334957911) |
 | 2026-11-24 | Reel (35s text) | 3 questions I ask every week (comment CTA) — 21:30 (extra) | posts/2026-11-24-weekly-check-in | approved |
