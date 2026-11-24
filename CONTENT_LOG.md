@@ -13,4 +13,4 @@ One line per post, newest last. Status: draft / approved / published.
 | 2026-11-24 | Carousel (7) | 5 lines I tell myself before I train — 19:00 | posts/2026-11-24-lines-i-tell-myself | published 2026-11-24 19:01 (media 18162983008519581) |
 | 2026-11-24 | Carousel (6) | What I thought I needed to start lifting — 15:00 (extra) | posts/2026-11-24-what-i-thought-i-needed | published 2026-11-24 15:01 (media 18360870565216540) |
 | 2026-11-24 | Reel (35s text) | I stopped waiting for Monday — 17:00 (extra) | posts/2026-11-24-not-waiting-for-monday | published 2026-11-24 15:56 (media 18123432334957911) |
-| 2026-11-24 | Reel (35s text) | 3 questions I ask every week (comment CTA) — 21:30 (extra) | posts/2026-11-24-weekly-check-in | approved |
+| 2026-11-24 | Reel (35s text) | 3 questions I ask every week (comment CTA) — 21:30 (extra) | posts/2026-11-24-weekly-check-in | published 2026-11-24 21:31 (media 18350174617281594) |
