@@ -2,8 +2,8 @@ import asyncio, sys
 from playwright.async_api import async_playwright
 BG="#16161A"; CREAM="#F4EFE8"; ACCENT="#FF6B3D"; MUTED="#A7A29A"
 scenes=[
- ('hook', "<div class='k'>THURSDAY CHECK-IN</div><h1>Rate<br>your week.<br><span class='a'>1 to 5.</span></h1>"),
- ('intro', "<h2>No wrong<br>answer.</h2><p>It's Thursday. Most of the week<br>is behind us. How did it go?</p>"),
+ ('hook', "<div class='k'>FRIDAY CHECK-IN</div><h1>Rate<br>your week.<br><span class='a'>1 to 5.</span></h1>"),
+ ('intro', "<h2>No wrong<br>answer.</h2><p>It's Friday. Most of the week<br>is behind us. How did it go?</p>"),
  ('s1', "<div class='n'>1</div><h2>Barely<br>showed up.</h2><p>One short session, or none.<br>That still counts as data.</p>"),
  ('s2', "<div class='n'>3</div><h2>Half the<br>plan.</h2><p>Some sessions, some misses.<br>For me, that's a normal week.</p>"),
  ('s3', "<div class='n'>5</div><h2>Everything<br>went to plan.</h2><p>Enjoy it.<br>I don't expect it every week.</p>"),
