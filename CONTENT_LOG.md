@@ -20,7 +20,7 @@ One line per post, newest last. Status: draft / approved / published.
 | 2026-11-25 | Carousel (6) | 4 things I stopped doing (I train more now) — 18:00 | posts/2026-11-25-things-i-stopped-doing | draft |
 | 2026-11-25 | Reel (35s text) | Pick one word for this week (comment CTA) — 21:00 | posts/2026-11-25-one-word | draft |
 | 2026-11-26 | Reel (35s text) | You're allowed to take up space — 08:00 | posts/2026-11-26-take-up-space | published 2026-11-26 13:57 (media 18103652591401564) |
-| 2026-11-26 | Carousel (6) | What I do after training so I come back — 11:30 | posts/2026-11-26-after-a-session | approved |
+| 2026-11-26 | Carousel (6) | What I do after training so I come back — 11:30 | posts/2026-11-26-after-a-session | published 2026-11-26 16:31 (media 18652946305023918) |
 | 2026-11-26 | Reel (35s text) | Thursday full body: the 3 moves I keep coming back to — 14:30 | posts/2026-11-26-thursday-full-body | approved |
 | 2026-11-26 | Carousel (6) | 4 things I believed about lifting — 18:00 | posts/2026-11-26-what-i-believed | approved |
 | 2026-11-27 | Reel (35s text) | Rate your week 1 to 5 (comment CTA) — 21:00 (moved from 26 Nov, Friday wording; publish already scheduled from the 26 Nov session) | posts/2026-11-26-rate-your-week | approved |
