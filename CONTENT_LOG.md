@@ -23,8 +23,8 @@ One line per post, newest last. Status: draft / approved / published.
 | 2026-11-26 | Carousel (6) | What I do after training so I come back — 11:30 | posts/2026-11-26-after-a-session | published 2026-11-26 16:31 (media 18652946305023918) |
 | 2026-11-26 | Reel (35s text) | Thursday full body: the 3 moves I keep coming back to — 14:30 | posts/2026-11-26-thursday-full-body | published 2026-11-26 19:01 (media 18228553423340061) |
 | 2026-11-26 | Carousel (6) | 4 things I believed about lifting — 18:00 | posts/2026-11-26-what-i-believed | published 2026-11-26 21:31 (media 18675477862022567) |
-| 2026-11-27 | Reel (35s text) | Finish the week you started — 08:00 | posts/2026-11-27-finish-the-week | draft |
-| 2026-11-27 | Carousel (7) | How I make training the easy choice — 11:30 | posts/2026-11-27-easy-choice | draft |
-| 2026-11-27 | Reel (35s text) | Friday, 30 minutes: the 3 moves I do when time is short — 14:30 | posts/2026-11-27-friday-30-minutes | draft |
-| 2026-11-27 | Carousel (6) | 4 things rest days taught me — 18:00 | posts/2026-11-27-rest-days | draft |
+| 2026-11-27 | Reel (35s text) | Finish the week you started — 08:00 | posts/2026-11-27-finish-the-week | approved |
+| 2026-11-27 | Carousel (7) | How I make training the easy choice — 11:30 | posts/2026-11-27-easy-choice | approved |
+| 2026-11-27 | Reel (35s text) | Friday, 30 minutes: the 3 moves I do when time is short — 14:30 | posts/2026-11-27-friday-30-minutes | approved |
+| 2026-11-27 | Carousel (6) | 4 things rest days taught me — 18:00 | posts/2026-11-27-rest-days | approved |
 | 2026-11-27 | Reel (35s text) | Rate your week 1 to 5 (comment CTA) — 21:00 (moved from 26 Nov, Friday wording; publish already scheduled from the 26 Nov session) | posts/2026-11-26-rate-your-week | approved |
