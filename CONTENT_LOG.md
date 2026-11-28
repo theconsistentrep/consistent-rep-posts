@@ -30,5 +30,5 @@ One line per post, newest last. Status: draft / approved / published.
 | 2026-11-28 | Reel (35s text) | Saturday session: the 3 moves I end my week with — 08:00 (late approval) | posts/2026-11-28-saturday-session | published 2026-11-28 09:22 (media 18042336410844498) |
 | 2026-11-28 | Carousel (6) | How I keep my weekends consistent — 11:30, moved to 11:51 (late approval) | posts/2026-11-28-weekend-consistency | published 2026-11-28 11:52 (media 18115854335601343) |
 | 2026-11-28 | Reel (35s text) | Future me says thanks — 14:30 | posts/2026-11-28-future-me | published 2026-11-28 14:32 (media 18014044439776110) |
-| 2026-11-28 | Reel (35s text) | Tag your gym buddy (share/tag CTA) — 18:00 | posts/2026-11-28-tag-your-gym-buddy | approved |
+| 2026-11-28 | Reel (35s text) | Tag your gym buddy (share/tag CTA) — 18:00 | posts/2026-11-28-tag-your-gym-buddy | published 2026-11-28 18:01 (media 18120347231593284) |
 | 2026-11-28 | Carousel (6) | 4 things rest days taught me — 21:00 (moved from 2026-11-27; publish already scheduled from the 2026-11-27 session) | posts/2026-11-27-rest-days | approved |
