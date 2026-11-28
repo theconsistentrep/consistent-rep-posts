@@ -27,4 +27,8 @@ One line per post, newest last. Status: draft / approved / published.
 | 2026-11-27 | Carousel (7) | How I make training the easy choice — 11:30, moved to 14:30 (late approval) | posts/2026-11-27-easy-choice | published 2026-11-27 14:31 (media 17976513255191474) |
 | 2026-11-27 | Reel (35s text) | Friday, 30 minutes: the 3 moves I do when time is short — 14:30, moved to 17:00 (late approval) | posts/2026-11-27-friday-30-minutes | published 2026-11-27 17:02 (media 17916791847478291) |
 | 2026-11-27 | Reel (35s text) | Rate your week 1 to 5 (comment CTA) — 21:00 (moved from 26 Nov, Friday wording; publish already scheduled from the 26 Nov session) | posts/2026-11-26-rate-your-week | published 2026-11-27 21:01 (media 18084346919737364) |
+| 2026-11-28 | Reel (35s text) | Saturday session: the 3 moves I end my week with — 08:00 | posts/2026-11-28-saturday-session | draft |
+| 2026-11-28 | Carousel (6) | How I keep my weekends consistent — 11:30 | posts/2026-11-28-weekend-consistency | draft |
+| 2026-11-28 | Reel (35s text) | Future me says thanks — 14:30 | posts/2026-11-28-future-me | draft |
+| 2026-11-28 | Reel (35s text) | Tag your gym buddy (share/tag CTA) — 18:00 | posts/2026-11-28-tag-your-gym-buddy | draft |
 | 2026-11-28 | Carousel (6) | 4 things rest days taught me — 21:00 (moved from 2026-11-27; publish already scheduled from the 2026-11-27 session) | posts/2026-11-27-rest-days | approved |
